@@ -10,6 +10,4 @@ I studied maths undergrad
 2025
 
 
-met
-
-error to correct
+merge conflict
